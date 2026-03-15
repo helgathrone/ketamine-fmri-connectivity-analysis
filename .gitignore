@@ -1,0 +1,9 @@
+data/raw/fmri/*.nii.gz
+data/raw/fmri/*.nii
+
+__pycache__/
+.ipynb_checkpoints/
+.virtualenv
+
+.DS_Store
+Thumbs.db
