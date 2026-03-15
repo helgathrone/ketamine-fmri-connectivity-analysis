@@ -1,0 +1,11 @@
+region_1,region_2,delta_connectivity,region_1_name,region_2_name,connection
+13,29,0.98292553,"Inferior Temporal Gyrus, anterior division","Cingulate Gyrus, posterior division","Inferior Temporal Gyrus, anterior division ↔ Cingulate Gyrus, posterior division"
+20,39,0.8510479,Angular Gyrus,Occipital Fusiform Gyrus,Angular Gyrus ↔ Occipital Fusiform Gyrus
+19,39,0.8497881,"Supramarginal Gyrus, posterior division",Occipital Fusiform Gyrus,"Supramarginal Gyrus, posterior division ↔ Occipital Fusiform Gyrus"
+27,29,0.7578043,Paracingulate Gyrus,"Cingulate Gyrus, posterior division","Paracingulate Gyrus ↔ Cingulate Gyrus, posterior division"
+22,39,0.7539478,"Lateral Occipital Cortex, inferior division",Occipital Fusiform Gyrus,"Lateral Occipital Cortex, inferior division ↔ Occipital Fusiform Gyrus"
+13,20,0.74482036,"Inferior Temporal Gyrus, anterior division",Angular Gyrus,"Inferior Temporal Gyrus, anterior division ↔ Angular Gyrus"
+4,41,0.7441702,"Inferior Frontal Gyrus, pars triangularis",Central Opercular Cortex,"Inferior Frontal Gyrus, pars triangularis ↔ Central Opercular Cortex"
+25,40,0.7372808,Juxtapositional Lobule Cortex (formerly Supplementary Motor Cortex),Frontal Opercular Cortex,Juxtapositional Lobule Cortex (formerly Supplementary Motor Cortex) ↔ Frontal Opercular Cortex
+10,26,0.6997287,"Middle Temporal Gyrus, anterior division",Subcallosal Cortex,"Middle Temporal Gyrus, anterior division ↔ Subcallosal Cortex"
+29,40,0.68883437,"Cingulate Gyrus, posterior division",Frontal Opercular Cortex,"Cingulate Gyrus, posterior division ↔ Frontal Opercular Cortex"

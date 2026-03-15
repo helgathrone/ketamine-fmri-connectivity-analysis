@@ -1,0 +1,7 @@
+subject,session,filename
+sub-MOA108,ses-b0,sub-MOA108_ses-b0_task-rest_run-01_bold.nii.gz
+sub-MOA108,ses-d2,sub-MOA108_ses-d2_task-rest_run-01_bold.nii.gz
+sub-MOA111,ses-b0,sub-MOA111_ses-b0_task-rest_run-01_bold.nii.gz
+sub-MOA111,ses-d2,sub-MOA111_ses-d2_task-rest_run-01_bold.nii.gz
+sub-MOA126,ses-b0,sub-MOA126_ses-b0_task-rest_run-01_bold.nii.gz
+sub-MOA126,ses-d2,sub-MOA126_ses-d2_task-rest_run-01_bold.nii.gz
